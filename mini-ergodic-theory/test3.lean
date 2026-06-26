@@ -1,0 +1,2 @@
+open Init
+#check Rat
